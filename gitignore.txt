@@ -1,0 +1,4 @@
+.app.jsx.swp
+!vendor/
+!.vs.
+index1.png
