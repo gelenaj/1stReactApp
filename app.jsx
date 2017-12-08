@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 function Application(props) {
     return(
       <div className="scoreboard">
@@ -44,3 +45,16 @@ Application.defaultProps ={
 }
 
 ReactDOM.render(<Application/>, document.getElementById('container'));
+=======
+function Application() {
+    return(
+        <div>
+            <h1>This is my first application using React</h1>
+            <p>I am learning the basics</p>
+        </div>
+    );
+
+}
+
+ReactDOM.render(<Application/>, document.getElementById('container'));
+>>>>>>> 140ff455016ca81c20cbcf668eb95e3439b5e89b
